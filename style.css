@@ -64,6 +64,10 @@ header h1 {
 .btn:hover {
   background-color: #444;
 }
+
+.edit-mode {
+  color: #ccc;
+}
 .btn-link {
   font-size: 16px;
   background-color: transparent;
